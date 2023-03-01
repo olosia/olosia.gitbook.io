@@ -6,11 +6,11 @@ description: OLOSIA is a flashcards platform designed to assist you in your lear
 
 ## Overview
 
-You can create your own study deck for repeated learning, or use publicly available decks for efficient learning on OLOSIA.
+You can create your own flashcards for repetition, or use public flashcards for efficient studying.
 
-By sharing your study deck with others, other members can subscribe to it and engage in repeated learning.
+If you make your flashcards public, other members can subscribe to them and use them for repetition!
 
-Share your experiences and expertise with many others who need it.
+Share your experience and know-how with many people who need it.
 
 [Go to OLOSIA](https://olosia.com)
 
@@ -42,36 +42,8 @@ We expect that the revisitation rate on the memorization platform will be higher
 
 In the introduction of the public study deck, you are free to include information about your website, blog, and commercial promotion within the scope allowed by our terms and conditions.
 
-
-
 {% hint style="info" %}
 It seems that OLOSIA can also be utilized to provide memorization assignments to students in schools and academies.
 
 In the future, we are considering implementing limited sharing functionality by allowing users to set their own public/private settings as a way to thank those who have contributed to the service.
 {% endhint %}
-
-## Quick links
-
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
-{% endcontent-ref %}
-
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
-{% endcontent-ref %}
-
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
-{% endcontent-ref %}
