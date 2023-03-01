@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Getting started](README.md)
+* [😍 Getting started](README.md)
 
 ## OLOSIA Main
 
