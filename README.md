@@ -2,7 +2,7 @@
 description: OLOSIA is a flashcards platform designed to assist you in your learning.
 ---
 
-# 👋 Getting started
+# 😍 Getting started
 
 ## Overview
 
@@ -14,11 +14,13 @@ Share your experience and know-how with many people who need it.
 
 [Go to OLOSIA](https://olosia.com)
 
-<figure><img src=".gitbook/assets/decks-pc.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
+<figure><img src=".gitbook/assets/decks-pc.png" alt=""><figcaption><p>OLOSIA PC browser screenshot</p></figcaption></figure>
+
+
 
 On your mobile phone, your tablet, which is widely used for online lectures, and your PC, OLOSIA is accessible anywhere, anytime!
 
-<figure><img src=".gitbook/assets/decks-mobile.png" alt=""><figcaption><p>Mobile browser screenshot</p></figcaption></figure>
+<figure><img src=".gitbook/assets/decks-mobile.png" alt=""><figcaption><p>OLOSIA Mobile browser screenshot</p></figcaption></figure>
 
 ## Install app
 
@@ -28,7 +30,7 @@ When you click on the "Install app" icon in the address bar, as shown in the scr
 
 You can also add it to the home screen on Android Chrome to make it easier for users to find and use it.
 
-<figure><img src=".gitbook/assets/PWA-install-pc.png" alt=""><figcaption><p>Install app</p></figcaption></figure>
+<figure><img src=".gitbook/assets/PWA-install-pc.png" alt=""><figcaption><p>OLOSIA Install app</p></figcaption></figure>
 
 ## How to use
 
