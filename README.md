@@ -10,6 +10,8 @@ Here are a couple of example overviews from products with really great docs:
 
 안녕하세요
 
+<figure><img src=".gitbook/assets/android-chrome-maskable-512x512.png" alt=""><figcaption></figcaption></figure>
+
 > Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
 >
 > With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
