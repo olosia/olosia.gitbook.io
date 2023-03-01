@@ -1,26 +1,54 @@
-# 👋 Welcome to OLOSIA User's Guide
+---
+description: OLOSIA is a flashcards platform designed to assist you in your learning.
+---
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+# 👋 Getting started
 
 ## Overview
 
-Here are a couple of example overviews from products with really great docs:
+You can create your own study deck for repeated learning, or use publicly available decks for efficient learning on OLOSIA.
 
-안녕하세요
+By sharing your study deck with others, other members can subscribe to it and engage in repeated learning.
 
-<figure><img src=".gitbook/assets/android-chrome-maskable-512x512.png" alt=""><figcaption></figcaption></figure>
+Share your experiences and expertise with many others who need it.
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+[Go to OLOSIA](https://olosia.com)
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+<figure><img src=".gitbook/assets/decks-pc.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
+
+On your mobile phone, your tablet, which is widely used for online lectures, and your PC, OLOSIA is accessible anywhere, anytime!
+
+<figure><img src=".gitbook/assets/decks-mobile.png" alt=""><figcaption><p>Mobile browser screenshot</p></figcaption></figure>
+
+## Install app
+
+OLOSIA supports Progressive Web App (PWA) progressively.
+
+When you click on the "Install app" icon in the address bar, as shown in the screenshot below, you can install it so that users can find and use it more easily.
+
+You can also add it to the home screen on Android Chrome to make it easier for users to find and use it.
+
+<figure><img src=".gitbook/assets/PWA-install-pc.png" alt=""><figcaption><p>Install app</p></figcaption></figure>
+
+## How to use
+
+As OLOSIA does not allocate a domain per user, it does not fully support Google AdSense, which is regrettable.
+
+However, we plan to provide limited support for Google AdSense in the official version in the future.
+
+If you operate a blog and have a Google AdSense account, you can publish your AdSense on the study deck that you make public.
+
+We expect that the revisitation rate on the memorization platform will be higher than on a blog, given the nature of the platform.
+
+In the introduction of the public study deck, you are free to include information about your website, blog, and commercial promotion within the scope allowed by our terms and conditions.
+
+
+
+{% hint style="info" %}
+It seems that OLOSIA can also be utilized to provide memorization assignments to students in schools and academies.
+
+In the future, we are considering implementing limited sharing functionality by allowing users to set their own public/private settings as a way to thank those who have contributed to the service.
+{% endhint %}
 
 ## Quick links
 

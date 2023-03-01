@@ -1,6 +1,11 @@
 # Table of contents
 
-* [👋 Welcome to OLOSIA User's Guide](README.md)
+* [👋 Getting started](README.md)
+
+## OLOSIA Main
+
+* [🐭 Overview](olosia-main/overview.md)
+* [🏄 Public Decks](olosia-main/public-decks.md)
 
 ## Overview
 
