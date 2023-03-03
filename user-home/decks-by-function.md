@@ -4,9 +4,9 @@ description: >-
   by function.
 ---
 
-# 🐻❄ Decks by Function
+# 🏓 Decks by Function
 
-### Recurring
+### Long-term learning
 
 Search for a list of notebooks designated as recurrent learning.
 
@@ -16,7 +16,7 @@ You can only search for up to 20 items.
 
 Search for a list of notebooks designated as favorites.
 
-### Subscribed
+### Subscription
 
 Search for a list of notebooks you're subscribed to.
 
@@ -24,7 +24,7 @@ Search for a list of notebooks you're subscribed to.
 
 View the list of publicly available decks.
 
-### All
+### All list
 
 View a list of all notebooks in your home.
 
