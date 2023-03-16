@@ -4,7 +4,7 @@ description: >-
   enter text.
 ---
 
-# 🐷 Easy Flashcards
+# 🍐 Easy Flashcards
 
 OLOSIA divides the entered content into front and back sides and creates flashcards. On the front side, users can write keywords or questions related to the entered content, and on the back side, they can write the answer or explanation.
 
@@ -26,14 +26,4 @@ Various features such as previewing the back first and shuffling are provided.
 
 <figure><img src="../.gitbook/assets/easy-mobile.png" alt=""><figcaption><p>Mobile browser screenshot</p></figcaption></figure>
 
-## Ask ChatGPT for flashcard sample data!!!
-
-> Please provide the English word level (B1) data to create flashcards with front and back sides.
->
-> The delimiter should be a comma (,).
->
-> The text before the comma will be the English word for the front side, and the text after the comma will be the Korean meaning for the back side.
-
-[Go to ChatGPT](https://chat.openai.com/chat)
-
-<figure><img src="../.gitbook/assets/chatgpt_en.png" alt=""><figcaption></figcaption></figure>
+##
