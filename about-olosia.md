@@ -4,7 +4,9 @@ description: Provides guidance on the OLOSIA service.
 
 # 🐝 About OLOSIA
 
-For comments or error reports, please use the Send Feedback feature at the bottom left of the guide article.
+For comments or errors, please contact us at the email address below.
+
+Email : olosiakr@gmail.com
 
 Thank you.
 
