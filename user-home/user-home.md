@@ -2,7 +2,7 @@
 description: This is the first page of the user home.
 ---
 
-# 🦁 User Home
+# ⚽ User Home
 
 Each member has an individual address like [https://olosia.com/@olosia](https://olosia.com/@olosia) for their own home.
 

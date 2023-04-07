@@ -2,7 +2,7 @@
 description: Sign out of the OLOSIA service.
 ---
 
-# 🦆 Log out
+# 🐳 Log out
 
 To protect your privacy, be sure to check the logout status of your SNS account after using a public PC.
 

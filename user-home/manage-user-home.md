@@ -2,7 +2,7 @@
 description: This is where you can manage your own homepage settings.
 ---
 
-# 🐨 Manage User Home
+# 🏀 Manage User Home
 
 You can set your homepage name, introduction, tags, avatar, and whether it is public or not.
 

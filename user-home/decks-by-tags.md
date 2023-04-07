@@ -2,7 +2,7 @@
 description: View notebooks by tags set up in Home Management.
 ---
 
-# 🐱 Decks by Tags
+# 🪀 Decks by Tags
 
 Each tag is displayed as a menu, and a list of notebooks belonging to the tag is retrieved.
 

@@ -2,7 +2,7 @@
 description: You can look up a memorization card and ask questions to check your answers.
 ---
 
-# 🐔 Card
+# 🎾 Card
 
 Each card has an individual address, such as https://olosia.com/@olosia/4567/5678.
 

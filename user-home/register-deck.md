@@ -2,7 +2,7 @@
 description: Register or modify a Deck.
 ---
 
-# 🐮 Register Deck
+# 🥎 Register Deck
 
 You can set the title, introduction, tags, reference URL, and whether to make it public or not.
 
@@ -22,7 +22,7 @@ The reference URL is provided as a link on the card details page.
 >
 > **https://en.dict.naver.com/#/search?query=**
 >
-> ****
+>
 >
 > Google Translate
 >

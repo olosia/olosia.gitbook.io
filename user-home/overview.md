@@ -2,7 +2,7 @@
 description: We would like to introduce the features related to the OLOSIA member homepage.
 ---
 
-# 🐧 Overview
+# 🛰 Overview
 
 We use the same home address format as blogging platforms like Medium or Velog.
 

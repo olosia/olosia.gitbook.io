@@ -4,7 +4,7 @@ description: >-
   a memory book designated for recurring study.
 ---
 
-# 🐸 Card Learning Mode
+# 🏉 Card Learning Mode
 
 Depending on the difficulty level you select for each card, you can repeat the study on a daily basis afterward.
 

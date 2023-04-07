@@ -2,7 +2,7 @@
 description: You can view the user homepage of users who have published their flashcards.
 ---
 
-# 🐱 Public Homes
+# 🍎 Public Homes
 
 On the public user homepage, you can see users who have made their flashcards public. The user's flashcards are presented in a list format for easy viewing. Additionally, a brief description and introduction are provided for each flashcard listed under its respective topic.
 

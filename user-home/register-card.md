@@ -2,7 +2,7 @@
 description: Create/edit questions, answers, and descriptions for a flashcard.
 ---
 
-# 🐦 Register Card
+# 🏐 Register Card
 
 <figure><img src="../.gitbook/assets/card-edit.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
 

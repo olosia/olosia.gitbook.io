@@ -2,6 +2,6 @@
 description: Navigate to the home of the logged-in user.
 ---
 
-# 🐣 My Home
+# 🐬 My Home
 
 <figure><img src="../.gitbook/assets/myhome.png" alt=""><figcaption></figcaption></figure>

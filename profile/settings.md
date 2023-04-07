@@ -4,6 +4,6 @@ description: >-
   use.
 ---
 
-# 🐥 Settings
+# 🐋 Settings
 
 <figure><img src="../.gitbook/assets/user-settings.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>

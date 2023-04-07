@@ -2,7 +2,7 @@
 description: Discover the memorization decks that can help with your learning.
 ---
 
-# 🐭 Overview
+# 🛰 Overview
 
 OLOSIA is a tool that allows users to create flashcards for studying by inputting words or sentences directly. Flashcards are known to be a very effective tool for learning, and with this web service, users can create flashcards by dividing their input into front and back sides.
 
