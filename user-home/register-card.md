@@ -34,7 +34,7 @@ If you check Register as a new lesson, an additional optional field called Add L
 
 
 
-Manage Cards
+### Manage Cards
 
 <figure><img src="../.gitbook/assets/card-manage.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
 
