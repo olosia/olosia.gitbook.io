@@ -10,4 +10,4 @@ Here, you can write a member introduction, and if you set it to public, the list
 
 Visitors can subscribe to the memorization lists you have made public, and continue their learning through those lists on each member's homepage.
 
-<figure><img src="../.gitbook/assets/user-home.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/home_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>

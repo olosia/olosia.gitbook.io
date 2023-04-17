@@ -14,8 +14,6 @@ This feature can be used without signing up for membership.
 
 [Go to Flags Flashcards](https://olosia.com/flags)
 
-<figure><img src="../.gitbook/assets/flags-pc.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/flag_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/flags-mobile.png" alt=""><figcaption><p>Mobile browser screenshot</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/flags-quiz.png" alt=""><figcaption><p>Random Quiz screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/flag_quiz_en.png" alt=""><figcaption><p>Random Quiz screenshot</p></figcaption></figure>
