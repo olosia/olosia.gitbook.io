@@ -14,6 +14,4 @@ This user homepage is a space where people can share and learn various fields of
 Currently, it is sorted by the latest registration, but we plan to provide features such as recommended and most viewed in the future.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/homes-pc.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/homes-mobile.png" alt=""><figcaption><p>Mobile browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/homes_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
