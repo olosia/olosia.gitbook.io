@@ -28,4 +28,4 @@ The reference URL is provided as a link on the card details page.
 >
 > **https://translate.google.co.kr/?text=**
 
-<figure><img src="../.gitbook/assets/note-edit.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/note_edit_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>

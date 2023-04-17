@@ -14,7 +14,7 @@ The public Memory Palace can be added to other members' Memory Palace list throu
 
 You can memorize by flipping each card.
 
-<figure><img src="../.gitbook/assets/note-main.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/note_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
 
 We provide a function to shuffle the card list using the SHUFFLE button.
 
@@ -22,7 +22,7 @@ You can move to the detailed screen by clicking the detail view button for each 
 
 ### Add Card
 
-<figure><img src="../.gitbook/assets/note-main-addcard (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/menu_note_manage_en.png" alt=""><figcaption></figcaption></figure>
 
 #### Card addition supports three modes.
 
@@ -32,7 +32,7 @@ You can move to the detailed screen by clicking the detail view button for each 
 
 ### Deck Management
 
-<figure><img src="../.gitbook/assets/note-manage.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/menu_card_add_en.png" alt=""><figcaption></figcaption></figure>
 
 #### Long-term Learning
 
@@ -64,4 +64,4 @@ Clicking the home icon in the title section will take you to the home page.
 
 On the card viewing screen, clicking the title of the card deck will take you to the deck.
 
-<figure><img src="../.gitbook/assets/note-main-title.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/title_navi_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
