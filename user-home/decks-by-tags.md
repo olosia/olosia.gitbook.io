@@ -8,4 +8,4 @@ Each tag is displayed as a menu, and a list of notebooks belonging to the tag is
 
 Visitors will see a list of publicly available notebooks.
 
-<figure><img src="../.gitbook/assets/tags-list.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/tags_list_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
