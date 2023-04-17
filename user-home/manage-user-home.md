@@ -14,4 +14,4 @@ You can set up to 10 tags for your homepage.
 
 Visitors can view memory decks by tag categories.
 
-<figure><img src="../.gitbook/assets/home-edit.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/home_edit_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
