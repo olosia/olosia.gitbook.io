@@ -14,4 +14,4 @@ If you set it to private, you can only enter your own home after logging in.
 
 You can add a new memorization deck by clicking the "Create Flashcards" button on your home page.
 
-<figure><img src="../.gitbook/assets/user-home.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/home_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
