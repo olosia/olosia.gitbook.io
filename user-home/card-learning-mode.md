@@ -24,4 +24,4 @@ It's important to keep studying every day if you've designated a memory book as 
 
 We will continue to expand and improve the algorithm for the repetition schedule.
 
-<figure><img src="../.gitbook/assets/today-learning.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/today_learning_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
