@@ -22,8 +22,6 @@ You can click on the card to see the answer on the back.
 Various features such as previewing the back first and shuffling are provided.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/easy-pc.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/easy-mobile.png" alt=""><figcaption><p>Mobile browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/easy_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
 
 ##
