@@ -10,7 +10,7 @@ Click the Answer button at the bottom to see the answer, and the Previous/Next b
 
 You can refer to the information about the question at the URL you registered, via the Reference URL link button in the top right corner.
 
-<figure><img src="../.gitbook/assets/card-main.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/card_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
 
 
 
@@ -20,4 +20,4 @@ In the title section below, clicking the Home icon will take you to Home.
 
 In the card view, clicking on a notebook title will take you to the notebook.
 
-<figure><img src="../.gitbook/assets/note-main-title.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/title_navi_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
