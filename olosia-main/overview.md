@@ -12,9 +12,7 @@ Flashcards can be useful tools for students, educators, businessmen, and anyone 
 
 [Go to OLOSIA](https://olosia.com)
 
-<figure><img src="../.gitbook/assets/decks-pc.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/decks-mobile.png" alt=""><figcaption><p>Mobile browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/decks_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
 
 {% hint style="info" %}
 Currently, the flashcards are sorted by the latest registration, but in the future, we plan to provide features such as recommended/sorted by views, etc.

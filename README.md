@@ -14,13 +14,13 @@ Share your experience and know-how with many people who need it.
 
 [Go to OLOSIA](https://olosia.com)
 
-<figure><img src=".gitbook/assets/decks-pc.png" alt=""><figcaption><p>OLOSIA PC browser screenshot</p></figcaption></figure>
+<figure><img src=".gitbook/assets/decks_en.png" alt=""><figcaption><p>OLOSIA PC browser screenshot</p></figcaption></figure>
 
 
 
-On your mobile phone, your tablet, which is widely used for online lectures, and your PC, OLOSIA is accessible anywhere, anytime!
+Support for mobile experiences.
 
-<figure><img src=".gitbook/assets/decks-mobile.png" alt=""><figcaption><p>OLOSIA Mobile browser screenshot</p></figcaption></figure>
+<figure><img src=".gitbook/assets/decks_mobile.png" alt=""><figcaption><p>OLOSIA Mobile browser screenshot</p></figcaption></figure>
 
 ## Install app
 
