@@ -4,7 +4,7 @@ description: Create/edit questions, answers, and descriptions for a flashcard.
 
 # 🏐 Register Card
 
-<figure><img src="../.gitbook/assets/card-edit.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/card_edit_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
 
 ### Quick Registration
 
@@ -12,7 +12,7 @@ Register at once by writing multiple lines of questions/answers on the front and
 
 Questions and answers will be separated by a comma.
 
-<figure><img src="../.gitbook/assets/card-edit-easy (1).png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/card_edit_easy_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
 
 ### Upload an excel
 
@@ -20,7 +20,7 @@ Upload an excel file with the questions, answers, and descriptions for the front
 
 Download the Excel Templete file to view the form, fill it out, and register.
 
-<figure><img src="../.gitbook/assets/card-edit-upload (1).png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/card_edit_excel_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
 
 
 
@@ -36,7 +36,7 @@ If you check Register as a new lesson, an additional optional field called Add L
 
 ### Manage Cards
 
-<figure><img src="../.gitbook/assets/card-manage.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/card_manage_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
 
 You can download an Excel file of your current cards information, edit it, and update it in bulk.
 
