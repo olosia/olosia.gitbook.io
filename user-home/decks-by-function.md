@@ -28,4 +28,4 @@ View the list of publicly available decks.
 
 View a list of all notebooks in your home.
 
-<figure><img src="../.gitbook/assets/decks-list.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/decks_list_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
