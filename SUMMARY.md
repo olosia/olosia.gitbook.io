@@ -8,7 +8,7 @@
 * [🍏 Public Decks](olosia-main/public-decks.md)
 * [🍎 Public Homes](olosia-main/public-homes.md)
 * [🍐 Easy Flashcards](olosia-main/easy-flashcards.md)
-* [🍐 AI Flashcards](olosia-main/ai-flashcards.md)
+* [🍊 AI Flashcards](olosia-main/ai-flashcards.md)
 * [🏁 Flags Flashcards](olosia-main/flags-flashcards.md)
 
 ## User Home
