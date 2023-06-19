@@ -8,6 +8,8 @@ You can set your homepage name, introduction, tags, avatar, and whether it is pu
 
 If you make your homepage public, it will be visible to other users.
 
+If you set it to private, it will only be accessible to users who have entered the access password.
+
 The tags you create can also be used as a menu, and when creating a memory deck, you can choose the tags you registered.
 
 You can set up to 10 tags for your homepage.

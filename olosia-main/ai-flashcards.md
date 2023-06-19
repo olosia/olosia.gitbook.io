@@ -2,7 +2,7 @@
 description: Introducing a service that uses flashcards provided by AI to help you learn.
 ---
 
-# 🍐 AI Flashcards
+# 🍊 AI Flashcards
 
 Choose the language on the front and back of the card, select the difficulty level of the word, and look it up to get AI-provided flashcards.
 
