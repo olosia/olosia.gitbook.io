@@ -1,10 +1,10 @@
 ---
-description: >-
-  We introduce a service that creates camelCase variables based on DB columns
-  (snake_case).
+description: Snake case To Camel case Online Converter
 ---
 
 # 🚀 CaseCraft
+
+We introduce a service that creates camelCase variables based on DB columns (snake\_case).
 
 Use it to create piece codes for each programming language.
 
