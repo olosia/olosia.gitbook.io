@@ -22,7 +22,7 @@ Copy and enter table column information separated by tabs.
 
 #### &#x20;<a href="#undefined" id="undefined"></a>
 
-#### Input table column information보 <a href="#undefined" id="undefined"></a>
+#### Input table column information <a href="#undefined" id="undefined"></a>
 
 ```
 seq	int(11)	N	Y	Sequence
@@ -31,6 +31,8 @@ user_email	varchar(50)	Y	N	User E-mail
 del_fg	bit(1)	N	N	Delete flag
 create_date	timestamp	N	N	Date of creation
 ```
+
+<figure><img src="../.gitbook/assets/case-craft_column.png" alt=""><figcaption><p>Input table column information</p></figcaption></figure>
 
 If you select menus and options for each language/function, you can create various pieces of code.
 
