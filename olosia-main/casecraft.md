@@ -12,27 +12,25 @@ The information you enter will not be transmitted or stored on the Olotia server
 
 [Go to CaseCraft](https://olosia.com/case-craft)
 
-<figure><img src="../.gitbook/assets/case-craft_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/case-craft_en (2).png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
 
 ### Examples of fragment code creation for each programming language
+
+#### Input table column information <a href="#undefined" id="undefined"></a>
 
 <figure><img src="../.gitbook/assets/case-craft_excel.png" alt=""><figcaption><p>Copy Column Excel</p></figcaption></figure>
 
 Copy and enter table column information separated by tabs.
 
-#### &#x20;<a href="#undefined" id="undefined"></a>
+<figure><img src="../.gitbook/assets/case-craft_column_db.png" alt=""><figcaption><p>Input table column information</p></figcaption></figure>
 
-#### Input table column information <a href="#undefined" id="undefined"></a>
+#### Input Plain text
 
-```
-seq	int(11)	Sequence
-user_id	varchar(15)	User identification
-user_email	varchar(50)	User E-mail
-del_fg	bit(1)	Delete flag
-create_date	timestamp	Date of creation
-```
+<figure><img src="../.gitbook/assets/case-craft_column_txt.png" alt=""><figcaption><p>Input Plain text</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/case-craft_column.png" alt=""><figcaption><p>Input table column information</p></figcaption></figure>
+#### Input JSON
+
+<figure><img src="../.gitbook/assets/case-craft_column_json.png" alt=""><figcaption><p>Input JSON</p></figcaption></figure>
 
 If you select menus and options for each language/function, you can create various pieces of code.
 
