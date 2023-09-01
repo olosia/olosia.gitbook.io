@@ -16,7 +16,7 @@ The information you enter will not be transmitted or stored on the Olotia server
 
 ### Examples of fragment code creation for each programming language
 
-#### Input table column information <a href="#undefined" id="undefined"></a>
+#### Input table column information. <a href="#undefined" id="undefined"></a>
 
 <figure><img src="../.gitbook/assets/case-craft_excel.png" alt=""><figcaption><p>Copy Column Excel</p></figcaption></figure>
 
