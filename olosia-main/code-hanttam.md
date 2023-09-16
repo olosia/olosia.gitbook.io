@@ -10,7 +10,7 @@ Use it to create piece codes for each programming language.
 
 The information you enter will not be transmitted or stored on the Olotia server.
 
-[Go to ](https://olosia.com/case-craft)[Code Hanttam](https://olosia.com/code-hanttam)
+[Go to Code Hanttam](https://olosia.com/code-hanttam)
 
 <figure><img src="../.gitbook/assets/code-hanttam_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
 
