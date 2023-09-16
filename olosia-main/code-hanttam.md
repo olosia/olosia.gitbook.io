@@ -2,7 +2,7 @@
 description: Snake case To Camel case Online Converter
 ---
 
-# 🚀 CaseCraft
+# 🚀 Code Hanttam
 
 We introduce a service that creates camelCase variables based on DB columns (snake\_case).
 
@@ -10,9 +10,9 @@ Use it to create piece codes for each programming language.
 
 The information you enter will not be transmitted or stored on the Olotia server.
 
-[Go to CaseCraft](https://olosia.com/case-craft)
+[Go to ](https://olosia.com/case-craft)[Code Hanttam](https://olosia.com/code-hanttam)
 
-<figure><img src="../.gitbook/assets/case-craft_en (2).png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/code-hanttam_en.png" alt=""><figcaption><p>PC browser screenshot</p></figcaption></figure>
 
 ### Examples of fragment code creation for each programming language
 

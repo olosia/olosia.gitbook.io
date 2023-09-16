@@ -10,7 +10,7 @@
 * [🍐 Easy Flashcards](olosia-main/easy-flashcards.md)
 * [🍊 AI Flashcards](olosia-main/ai-flashcards.md)
 * [🏁 Flags Flashcards](olosia-main/flags-flashcards.md)
-* [🚀 CaseCraft](olosia-main/casecraft.md)
+* [🚀 Code Hanttam](olosia-main/code-hanttam.md)
 
 ## User Home
 
