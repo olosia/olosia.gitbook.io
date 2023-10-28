@@ -24,6 +24,7 @@
 * [🏉 Card Learning Mode](user-home/card-learning-mode.md)
 * [🏓 Decks by Function](user-home/decks-by-function.md)
 * [🪀 Decks by Tags](user-home/decks-by-tags.md)
+* [🌏 Timeline](user-home/timeline.md)
 
 ## Profile
 
